@@ -1,0 +1,1 @@
+chrome.exe -remote-debugging-port=9015 --user-data-dir="D:\3_work\webscraping\Azual\chrome"
